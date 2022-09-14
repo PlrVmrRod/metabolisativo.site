@@ -17,7 +17,7 @@ body {
 	align-items: center;
 	width: 100vw;
 	height: 100vh;
-	background-color: #7D0463;
+	background-color: #232049;
 	background-size: cover;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .black {
-	background-color: #D147CC;
+	background-color: #f44cb4;
 	padding: 10px;
 	text-align: center;
 	border-radius: 20px;
